@@ -1,0 +1,15 @@
+# Getting Started with Ansible Automation Made Easy
+
+1. Becoming Familiar with Ansible  [s1.html]
+    001. Course Introduction  ->  https://drive.google.com/file/d/1--yRQDOAo4yri8X3BZMAGJ075e5RVM6s/preview
+    002. Setting Up Our Environment  ->  https://drive.google.com/file/d/1-31u6O4LWjNwFYx58qm4dLzlQfRTr2tP/preview
+    003. Running Commands with Ansible  ->  https://drive.google.com/file/d/1-s6-XyGi-bveEZRPzqVsuokhV9fhz4S9/preview
+    004. Setting Up Version Control  ->  https://drive.google.com/file/d/106fIQy8bAv9-hBmhT1mB8ZbCo-fDZmab/preview
+
+2. Running Commands and Tasks  [s2.html]
+    001. Running Elevated Commands  ->  https://drive.google.com/file/d/10KIem6_iq1-HeGbMTwtE83Mfk_Mf-Gy6/preview
+    002. Writing Our First Playbook  ->  https://drive.google.com/file/d/10MA_7a0u-F_fQFUQLYJgV5KojoPnQjaG/preview
+    003. Dealing With Mixed Linux Environments  ->  https://drive.google.com/file/d/10R4GRtj1neXUx7ISwNerduxX0vRbFRsR/preview
+
+3. Organizing our Repository  [s3.html]
+    001. Refactoring and Simplifying Our Playbook  ->  https://drive.google.com/file/d/10SLmrsMjWqEbfvYx7ngxmhnEFKEN1376/preview

@@ -1,0 +1,86 @@
+{
+  "name": "Getting Started with Ansible Automation Made Easy",
+  "slug": "Getting_Started_with_Ansible_Automation_Made_Easy",
+  "url": "https://LexCode30.github.io/Getting_Started_with_Ansible_Automation_Made_Easy/",
+  "category": "systems",
+  "generator": "7.0",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Becoming Familiar with Ansible",
+      "page": "s1.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Course Introduction",
+          "id": "1--yRQDOAo4yri8X3BZMAGJ075e5RVM6s",
+          "anchor": "v-1--yRQDOAo4yri8X3BZMAGJ075e5RVM6s",
+          "href": "s1.html#v-1--yRQDOAo4yri8X3BZMAGJ075e5RVM6s"
+        },
+        {
+          "number": 2,
+          "title": "Setting Up Our Environment",
+          "id": "1-31u6O4LWjNwFYx58qm4dLzlQfRTr2tP",
+          "anchor": "v-1-31u6O4LWjNwFYx58qm4dLzlQfRTr2tP",
+          "href": "s1.html#v-1-31u6O4LWjNwFYx58qm4dLzlQfRTr2tP"
+        },
+        {
+          "number": 3,
+          "title": "Running Commands with Ansible",
+          "id": "1-s6-XyGi-bveEZRPzqVsuokhV9fhz4S9",
+          "anchor": "v-1-s6-XyGi-bveEZRPzqVsuokhV9fhz4S9",
+          "href": "s1.html#v-1-s6-XyGi-bveEZRPzqVsuokhV9fhz4S9"
+        },
+        {
+          "number": 4,
+          "title": "Setting Up Version Control",
+          "id": "106fIQy8bAv9-hBmhT1mB8ZbCo-fDZmab",
+          "anchor": "v-106fIQy8bAv9-hBmhT1mB8ZbCo-fDZmab",
+          "href": "s1.html#v-106fIQy8bAv9-hBmhT1mB8ZbCo-fDZmab"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Running Commands and Tasks",
+      "page": "s2.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Running Elevated Commands",
+          "id": "10KIem6_iq1-HeGbMTwtE83Mfk_Mf-Gy6",
+          "anchor": "v-10KIem6_iq1-HeGbMTwtE83Mfk_Mf-Gy6",
+          "href": "s2.html#v-10KIem6_iq1-HeGbMTwtE83Mfk_Mf-Gy6"
+        },
+        {
+          "number": 2,
+          "title": "Writing Our First Playbook",
+          "id": "10MA_7a0u-F_fQFUQLYJgV5KojoPnQjaG",
+          "anchor": "v-10MA_7a0u-F_fQFUQLYJgV5KojoPnQjaG",
+          "href": "s2.html#v-10MA_7a0u-F_fQFUQLYJgV5KojoPnQjaG"
+        },
+        {
+          "number": 3,
+          "title": "Dealing With Mixed Linux Environments",
+          "id": "10R4GRtj1neXUx7ISwNerduxX0vRbFRsR",
+          "anchor": "v-10R4GRtj1neXUx7ISwNerduxX0vRbFRsR",
+          "href": "s2.html#v-10R4GRtj1neXUx7ISwNerduxX0vRbFRsR"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "title": "Organizing our Repository",
+      "page": "s3.html",
+      "videos": [
+        {
+          "number": 1,
+          "title": "Refactoring and Simplifying Our Playbook",
+          "id": "10SLmrsMjWqEbfvYx7ngxmhnEFKEN1376",
+          "anchor": "v-10SLmrsMjWqEbfvYx7ngxmhnEFKEN1376",
+          "href": "s3.html#v-10SLmrsMjWqEbfvYx7ngxmhnEFKEN1376"
+        }
+      ]
+    }
+  ]
+}
